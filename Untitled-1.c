@@ -47,6 +47,7 @@ if ( notas [i][j] < min ) min = notas [i][j];
 
 
 printf ("    Promedio, Nota Max/Min y Aprobados/Reprobados por Asignatura    \n  ");
+printf("hola");
 for ( j = 0 ; j < 3 ; j++ ) {
 
 float suma = 0 ;
